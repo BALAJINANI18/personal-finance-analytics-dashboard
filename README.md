@@ -31,4 +31,4 @@ A fintech-style analytics dashboard that analyzes personal expense data and pres
 ## ▶️ How to Run
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/personal-finance-analytics-dashboard.git
+git clone https://github.com/BALAJINANI18/personal-finance-analytics-dashboard.git
